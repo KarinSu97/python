@@ -16,3 +16,4 @@ f1.get_support()   #筛选出的变量
 f2=LR()
 f2.fit(x,y)
 f2.score(x,y)   #准确率
+

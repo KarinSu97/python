@@ -80,37 +80,37 @@ class crack_captch:
         x=tf.reshape(X,[-1,self.IMAGE_HEIGHT,self.IMAGE_WIDTH,1])
         #卷积层
         wc1=tf.Variable(self.w_alpha*tf.random_normal([3,3,1,32]))
-        bc1=tf.Variable(self.b_alpha*tf.random_normal([32]))
+        bc1=tf.Variable(self.b_alpha*tf.zeros([32])+0.1)
         conv1=tf.nn.relu(tf.nn.bias_add(tf.nn.conv2d(x,wc1,strides=[1,1,1,1],padding='SAME'),bc1))
         conv1=tf.nn.max_pool(conv1,ksize=[1,2,2,1],strides=[1,2,2,1],padding='SAME')
         conv1=tf.nn.dropout(conv1,keep_prob=keep_prob)
 
         wc2 = tf.Variable(self.w_alpha * tf.random_normal([3, 3, 32, 64]))
-        bc2 = tf.Variable(self.b_alpha * tf.random_normal([64]))
+        bc2 = tf.Variable(self.b_alpha * tf.zeros([64])+0.1)
         conv2 = tf.nn.relu(tf.nn.bias_add(tf.nn.conv2d(conv1, wc2, strides=[1, 1, 1, 1], padding='SAME'),bc2))
         conv2 = tf.nn.max_pool(conv2, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding='SAME')
         conv2 = tf.nn.dropout(conv2, keep_prob=keep_prob)
 
         wc3 = tf.Variable(self.w_alpha * tf.random_normal([3, 3, 64, 64]))
-        bc3 = tf.Variable(self.b_alpha * tf.random_normal([64]))
+        bc3 = tf.Variable(self.b_alpha * tf.zeros([64])+0.1)
         conv3 = tf.nn.relu(tf.nn.bias_add(tf.nn.conv2d(conv2, wc3, strides=[1, 1, 1, 1], padding='SAME'),bc3))
         conv3 = tf.nn.max_pool(conv3, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding='SAME')
         conv3 = tf.nn.dropout(conv3, keep_prob=keep_prob)
 
         #全连接层
-        wd1=tf.Variable(self.w_alpha*tf.random_normal([8*20*64,128]))
-        bd1=tf.Variable(self.b_alpha*tf.random_normal([128]))
+        wd1=tf.Variable(self.w_alpha*tf.random_normal([8*20*64,1024]))
+        bd1=tf.Variable(self.b_alpha*tf.zeros([1024])+0.1)
         conv3=tf.reshape(conv3,[-1,wd1.get_shape().as_list()[0]])
         hidden=tf.nn.relu(tf.add(tf.matmul(conv3,wd1),bd1))
         hidden=tf.nn.dropout(hidden,keep_prob)
 
-        wd2=tf.Variable(self.w_alpha*tf.random_normal([128,self.MAX_CAPTCHA*self.char_set_len]))
-        bd2=tf.Variable(self.b_alpha*tf.random_normal([self.MAX_CAPTCHA*self.char_set_len]))
+        wd2=tf.Variable(self.w_alpha*tf.random_normal([1024,self.MAX_CAPTCHA*self.char_set_len]))
+        bd2=tf.Variable(self.b_alpha*tf.zeros([self.MAX_CAPTCHA*self.char_set_len])+0.1)
         out=tf.add(tf.matmul(hidden,wd2),bd2)
         return out
     #定义训练函数
     def train(self):
-        learn_rate=0.001
+        learn_rate=0.000001
         X = tf.placeholder('float', [None, self.IMAGE_HEIGHT * self.IMAGE_WIDTH])
         Y = tf.placeholder('float', [None, self.MAX_CAPTCHA * self.char_set_len])
         keep_prob=tf.placeholder('float')
@@ -133,10 +133,11 @@ class crack_captch:
             while True:
                 batch_x,batch_y=self.get_next_batch(64)
                 _,this_loss=sess.run([optimizer,loss],feed_dict={X:batch_x,Y:batch_y,keep_prob:0.5})
-                print('step:',step,",loss:",this_loss)
+                train_acc=sess.run(acc,feed_dict={X:batch_x,Y:batch_y,keep_prob:1})
+                print('step:',step,",loss:",this_loss,"train_acc",train_acc)
                 #每10次计算一次准确率
                 if step%10==0:
-                    batch_x_test, batch_y_test=self.get_next_batch(32)
+                    batch_x_test, batch_y_test=self.get_next_batch(64)
                     this_acc=sess.run(acc,feed_dict={X:batch_x_test,Y:batch_y_test,keep_prob:1})
                     print('step:',step,",acc:",this_acc)
                     #如果准确率大于0.85,则保存模型，完成训练
@@ -144,8 +145,8 @@ class crack_captch:
                         saver.save(sess,r"C:\Users\T\Desktop\python视频\model\crack_capcha.model",global_step=step)
                         print("----Finish train!----")
                         break
-                    if step%10==0:
-                        learn_rate*=0.95
+                    #if step%20==0:
+                    #    learn_rate*=0.95
                 step+=1
     #定义预测函数
     def predict(self,x,model_path):
