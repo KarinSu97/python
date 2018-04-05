@@ -65,3 +65,5 @@ sentence='我喜欢上海的东方明珠，是因为东方明珠很好看'
 w1=jieba.tokenize(sentence)
 for item in w1:
     print(item)
+
+

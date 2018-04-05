@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/.idea/car_detector.iml" filepath="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/.idea/car_detector.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python.iml" filepath="$PROJECT_DIR$/.idea/python.iml" />
       <module fileurl="file://$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/.idea/人脸检测与识别.iml" filepath="$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/.idea/人脸检测与识别.iml" />
+      <module fileurl="file://$PROJECT_DIR$/推荐算法/.idea/推荐算法.iml" filepath="$PROJECT_DIR$/推荐算法/.idea/推荐算法.iml" />
     </modules>
   </component>
 </project>

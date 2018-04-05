@@ -13,6 +13,7 @@
     <SUITE FILE_PATH="coverage/python$start.coverage" NAME="start Coverage Results" MODIFIED="1512974712271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/深度学习/CNN神经网络" />
     <SUITE FILE_PATH="coverage/python$python.coverage" NAME="python Coverage Results" MODIFIED="1515939865556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/python$DBSCAN.coverage" NAME="DBSCAN聚类 Coverage Results" MODIFIED="1514613037681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="饿了么 Coverage Results" MODIFIED="1522651971928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
     <SUITE FILE_PATH="coverage/python$setup.coverage" NAME="setup Coverage Results" MODIFIED="1514613059076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files/Anaconda3/nltk-develop" />
   </component>
   <component name="DatabaseView">
@@ -23,25 +24,16 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="spiders@localhost" type="e3449647:DbNodeDescriptor" />
-      </path>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="spiders@localhost" type="e3449647:DbNodeDescriptor" />
-        <item name="spiders" type="e3449647:DbNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -57,6 +49,13 @@
       <find>self.keep_prob</find>
       <find>vec2</find>
       <find>args</find>
+      <find>63568622</find>
+      <find>Content-Disposition: form-data; name=</find>
+      <find>------WebKitFormBoundary7MA4YWxkTrZu0gW</find>
+      <find>index</find>
+      <find>关键词</find>
+      <find>any</find>
+      <find>索引</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -65,30 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/计算机视觉/imtool.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/基本图像操作和处理/直方图均衡化.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/基本图像操作和处理/imtool.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/基本图像操作和处理/图像平均.py" />
-        <option value="$PROJECT_DIR$/python基础/pickle模块.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/图像基本操作和处理/图像模糊.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/图像基本操作和处理/图像导数.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/图像基本操作和处理/将数组保存为图像.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/局部图像描述子/harris.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/局部图像描述子/Harris角点检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/打开摄像头.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/局部图像描述子/Sfit尺度不变特征变换.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/局部图像描述子/sift.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像转换操作.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/读写视频文件.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/读写图像文件.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/利用摄像头录制视频.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/傅里叶变换.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/Canny边缘检测.py" />
-        <option value="$PROJECT_DIR$/爬虫/下载音频文件.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/轮廓检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/直线和圆检测.py" />
-        <option value="$PROJECT_DIR$/爬虫/获取优酷vip视频.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/计算视差图.py" />
         <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/GrabCut前景检测.py" />
         <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/使用分水岭进行图像分割.py" />
         <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/静态图像人脸检测.py" />
@@ -116,6 +91,30 @@
         <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/CamShift.py" />
         <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/鼠标跟踪.py" />
         <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/行人跟踪.py" />
+        <option value="$PROJECT_DIR$/爬虫/陌陌爬虫.py" />
+        <option value="$PROJECT_DIR$/爬虫/获取优酷vip视频.py" />
+        <option value="$PROJECT_DIR$/爬虫/新浪新闻.py" />
+        <option value="$PROJECT_DIR$/爬虫/陌陌用户数据.py" />
+        <option value="$PROJECT_DIR$/自然语言处理/文本挖掘.py" />
+        <option value="$PROJECT_DIR$/自然语言处理/句子关系分析2.py" />
+        <option value="$PROJECT_DIR$/自然语言处理/句子关系分析.py" />
+        <option value="$PROJECT_DIR$/爬虫/楼盘网.py" />
+        <option value="$PROJECT_DIR$/推荐算法/协同过滤和矩阵分解.py" />
+        <option value="$PROJECT_DIR$/../python视频/推荐系统/推荐系统/rs_1.ipynb" />
+        <option value="$PROJECT_DIR$/推荐算法/协调过滤和矩阵分解.py" />
+        <option value="$PROJECT_DIR$/爬虫/赶集网.py" />
+        <option value="$PROJECT_DIR$/../python视频/推荐系统/推荐系统/RecSys-master/Train_RecSys.ipynb" />
+        <option value="$PROJECT_DIR$/机器学习/共享单车出行人数预测.py" />
+        <option value="$PROJECT_DIR$/../共享单车/共享单车出行人数预测.py" />
+        <option value="$PROJECT_DIR$/单车.ipynb" />
+        <option value="$PROJECT_DIR$/../共享单车/Course examination.ipynb" />
+        <option value="$PROJECT_DIR$/mysql/用户权限管理.py" />
+        <option value="$PROJECT_DIR$/mysql/数据类型.py" />
+        <option value="$PROJECT_DIR$/mysql/处理json数据.py" />
+        <option value="$PROJECT_DIR$/mysql/表格操作.py" />
+        <option value="$PROJECT_DIR$/mysql/视图.py" />
+        <option value="$PROJECT_DIR$/爬虫/饿了么.py" />
+        <option value="$PROJECT_DIR$/mysql/触发器.py" />
       </list>
     </option>
   </component>
@@ -148,6 +147,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,31 +157,12 @@
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="计算机视觉" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="计算机视觉" type="462c0819:PsiDirectoryNode" />
-              <item name="Opencv教程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="计算机视觉" type="462c0819:PsiDirectoryNode" />
-              <item name="Opencv教程" type="462c0819:PsiDirectoryNode" />
-              <item name="目标跟踪" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,6 +173,9 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T\Desktop\python\自然语言处理" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\T\Desktop\python\计算机视觉\Opencv教程\目标检测与识别" />
       <recent name="C:\Users\T\Desktop\python\计算机视觉\Opencv教程\目标检测与识别\car_detector" />
@@ -212,7 +196,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jupyter Notebook.python">
+  <component name="RunManager" selected="Python.饿了么">
+    <configuration name="饿了么" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/饿了么.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="DBSCAN聚类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,17 +286,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.python" />
       <item index="1" class="java.lang.String" itemvalue="Python.start" />
       <item index="2" class="java.lang.String" itemvalue="Python.DBSCAN聚类" />
       <item index="3" class="java.lang.String" itemvalue="Python.setup" />
+      <item index="4" class="java.lang.String" itemvalue="Python.饿了么" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.setup" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DBSCAN聚类" />
-        <item index="2" class="java.lang.String" itemvalue="Python.start" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.饿了么" />
+        <item index="1" class="java.lang.String" itemvalue="Python.setup" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DBSCAN聚类" />
+        <item index="3" class="java.lang.String" itemvalue="Python.start" />
       </list>
     </recent_temporary>
   </component>
@@ -326,17 +330,17 @@
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27321815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22192225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5064795" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18682505" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.49352053" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850778" sideWeight="0.49352053" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -360,395 +364,364 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/直线和圆检测.py">
+    <entry file="file://$PROJECT_DIR$/自然语言处理/word2vec案例/用每日新闻预测金融市场变化.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/下载音频文件.py">
+    <entry file="file://$PROJECT_DIR$/自然语言处理/情感分析/利用bag of words进行英文情感分析.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="-324">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/re.py">
+    <entry file="file://$PROJECT_DIR$/机器学习/Logistic模型.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="174" column="4" lean-forward="false" selection-start-line="174" selection-start-column="4" selection-end-line="174" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/导入数据.py">
+    <entry file="file://$PROJECT_DIR$/机器学习/支持向量机.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO05C4A4D3/disparity.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/sklearn/svm/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-811">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="-1997">
+          <caret line="109" column="8" lean-forward="false" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/计算视差图.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/sklearn/cross_validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="-134">
+          <caret line="1350" column="4" lean-forward="false" selection-start-line="1350" selection-start-column="4" selection-end-line="1350" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/GrabCut前景检测.py">
+    <entry file="file://$PROJECT_DIR$/自然语言处理/文本挖掘.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="323">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/使用分水岭进行图像分割.py">
+    <entry file="file://$PROJECT_DIR$/自然语言处理/情感分析/利用word2vec进行英文情感分析.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/静态图像人脸检测.py">
+    <entry file="file://$PROJECT_DIR$/自然语言处理/情感分析/利用word2vec对中文进行情感分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="58" column="47" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/BP神经网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="63" column="15" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="63" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="654" column="35" lean-forward="true" selection-start-line="654" selection-start-column="17" selection-end-line="654" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="575" column="4" lean-forward="false" selection-start-line="575" selection-start-column="4" selection-end-line="575" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="2444" column="44" lean-forward="false" selection-start-line="2444" selection-start-column="44" selection-end-line="2444" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自然语言处理/句子关系分析.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="6" column="98" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="98" />
+          <caret line="211" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/处理文件、摄像头和图形化界面/利用摄像头录制视频.py">
+    <entry file="file://$PROJECT_DIR$/自然语言处理/句子关系分析2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO416B0F21/homography.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-813">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/视频人脸检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="81" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1282051629/cv2/face.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3698">
-          <caret line="139" column="4" lean-forward="false" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="462" column="15" lean-forward="false" selection-start-line="462" selection-start-column="15" selection-end-line="462" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/人脸识别.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="77" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/角点检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/SIFT关键点检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/ORB特征匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/KNN最近邻匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/人检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO06B3FD6B/detector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/汽车检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO06B881A7/car_sliding_windows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/图像基本操作和处理/PIL基本操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/图像基本操作和处理/交互式标注.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/图像基本操作和处理/图像轮廓.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/图像基本操作和处理/将数组保存为图像.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1282051629/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="3601" column="8" lean-forward="false" selection-start-line="3601" selection-start-column="8" selection-end-line="3601" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/图像基本操作和处理/直方图均衡化.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO06B558CA/car_sliding_windows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code.zip/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/sliding_window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/pyramid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code.zip/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/pyramid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/sliding_window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/detector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="971">
-          <caret line="68" column="37" lean-forward="true" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/non_maximum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_sliding_window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/MOG运动检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/背景分割器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1282051629/cv2/VideoCapture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="194" column="8" lean-forward="false" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/KNN运动检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/网贷天眼.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="6" column="134" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="134" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/获取优酷vip视频.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#21#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4DE6F835/meanshift.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/均值漂移.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="29" column="63" lean-forward="false" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="377">
+          <caret line="141" column="16" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/梧桐果.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="1674">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/楼盘网.py" />
+    <entry file="file://$PROJECT_DIR$/推荐算法/协同过滤和矩阵分解.py" />
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/surprise/prediction_algorithms/knns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="85" column="38" lean-forward="false" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/获取优酷vip视频.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="50" column="46" lean-forward="false" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python视频/推荐系统/推荐系统/rs_1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/爬虫/赶集网.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/推荐算法/协调过滤和矩阵分解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python视频/推荐系统/推荐系统/RecSys-master/Test_RecSys.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../python视频/推荐系统/推荐系统/RecSys-master/Train_RecSys.ipynb" />
+    <entry file="file://$USER_HOME$/Downloads/Course examination.ipynb" />
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/seaborn/categorical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="919">
+          <caret line="2251" column="45" lean-forward="true" selection-start-line="2251" selection-start-column="18" selection-end-line="2251" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/pandas_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/numpy_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="129" column="22" lean-forward="true" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/回归分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/reshape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="953" column="4" lean-forward="false" selection-start-line="953" selection-start-column="4" selection-end-line="953" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/tools/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="789" column="4" lean-forward="false" selection-start-line="789" selection-start-column="4" selection-end-line="789" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/陌陌用户数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单车.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../共享单车/Course examination.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../共享单车/共享单车出行人数预测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../共享单车/共享单车出行量预测.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/3f24eddd/11d5c30f-5466-4715-bf27-d4c177f070cb/spiders.dangdang">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/douban/douban/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/douban/douban/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/douban/douban/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/douban/douban/spiders/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/jingdong/jingdong/spiders/jd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/jingdong/jingdong/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/用户权限管理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp2_Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code.zip/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/camshift.py">
+    <entry file="file://$PROJECT_DIR$/mysql/处理json数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="485">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1522401403674" expanded="true" signature="172:241" ph="CREATE TABLE... g" />
+            <marker date="1522401403674" expanded="true" signature="248:316" ph="INSERT INTO g... " />
+            <marker date="1522401403674" expanded="true" signature="323:394" ph="INSERT INTO g... " />
+            <marker date="1522401403674" expanded="true" signature="416:484" ph="SELECT json_... g" />
+            <marker date="1522401403674" expanded="true" signature="544:564" ph="INSERT INTO g... " />
+            <marker date="1522401403674" expanded="true" signature="544:579" ph="INSERT INTO g... " />
+            <marker date="1522401403674" expanded="true" signature="544:611" ph="INSERT INTO g... " />
+            <marker date="1522401403674" expanded="true" signature="544:618" ph="INSERT INTO g... " />
+            <marker date="1522401403674" expanded="true" signature="648:756" ph="SELECT uid, g" />
+            <marker date="1522401403674" expanded="true" signature="791:964" ph="UPDATE g SET... " />
+            <marker date="1522401403674" expanded="true" signature="993:1060" ph="UPDATE g SET... " />
+            <marker date="1522401403674" expanded="true" signature="1099:1197" ph="ALTER TABLE users... " />
+            <marker date="1522401403674" expanded="true" signature="1229:1278" ph="ALTER TABLE users... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/CamShift.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/饿了么.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="540">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/视图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/鼠标跟踪.py">
+    <entry file="file://$PROJECT_DIR$/mysql/触发器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="459">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp2_Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code.zip/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/surveillance_demo/main.py">
+    <entry file="file://$PROJECT_DIR$/mysql/表格操作.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="158" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        <state relative-caret-position="211">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="13" />
           <folding>
-            <element signature="e#395#405#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1522639604153" expanded="true" signature="204:241" ph="CREATE TABLE... a" />
+            <marker date="1522639604153" expanded="true" signature="343:367" ph="INSERT INTO a... " />
+            <marker date="1522639604153" expanded="true" signature="412:429" ph="SELECT b-a F... a" />
+            <marker date="1522639604153" expanded="true" signature="483:532" ph="CREATE TABLE... b" />
+            <marker date="1522639604153" expanded="true" signature="570:595" ph="INSERT INTO a... " />
+            <marker date="1522639604153" expanded="true" signature="603:626" ph="INSERT INTO b... " />
+            <marker date="1522639604153" expanded="true" signature="634:674" ph="INSERT INTO b... " />
+            <marker date="1522639604153" expanded="true" signature="693:720" ph="UPDATE b set... " />
+            <marker date="1522639604153" expanded="true" signature="851:927" ph="CREATE TABLE... e" />
+            <marker date="1522639604153" expanded="true" signature="980:1026" ph="SELECT * FRO... e" />
+            <marker date="1522639604153" expanded="true" signature="1234:1385" ph="CREATE TABLE... f" />
+            <marker date="1522639604153" expanded="true" signature="1411:1444" ph="SELECT * fro... employees" />
+            <marker date="1522639604153" expanded="true" signature="1477:1541" ph="SELECT * FRO... employees" />
+            <marker date="1522639604153" expanded="true" signature="1562:1648" ph="SELECT * FRO... employees" />
+            <marker date="1522639604153" expanded="true" signature="1562:1816" ph="SELECT * FRO... employees" />
+            <marker date="1522639604153" expanded="true" signature="1669:1804" ph="SELECT * FRO... employees" />
+            <marker date="1522639604153" expanded="true" signature="1825:1966" ph="SELECT emplo... employees" />
+            <marker date="1522639604153" expanded="true" signature="1990:2345" ph="SELECT ADDDA... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/行人跟踪.py">
+    <entry file="file://$PROJECT_DIR$/机器学习/共享单车出行人数预测.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2052">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#409#419#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

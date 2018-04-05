@@ -1,6 +1,8 @@
 import urllib.request
 import re
 import json
+from bypy import ByPy
+import os
 
 #视频链接，直接在优酷上对应电影的链接，这里以《神秘巨星》为例，电视剧也可以看，不过需要将链接中后缀"s=..."去掉，比如
 #http://v.youku.com/v_show/id_XMzQwMjgyNjM4NA==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&s=efbfbdefbfbdefbfbd1d需要
@@ -58,5 +60,29 @@ def get_video(source_url,filename=None):
 
 #查看电影链接
 get_video(source_url)
+
+def upload_video(dianshiju_url,remote_name='烈火如歌',init_index=9):
+    #获取所有集的链接
+    data=urllib.request.urlopen(dianshiju_url).read()
+    data=data.decode('utf-8','ignore')
+    pattern1='a class="sn" href="(.*?)s=[a-zA-Z0-9]*" data-from'
+    all_url=re.compile(pattern1).findall(data)
+    # 创建文件夹
+    bp = ByPy()
+    #bp.mkdir(remotepath='视频/%s' % remote_name)
+    #下载所有剧集
+    for i in range(init_index,len(all_url)):
+        print("下载第%d集..." % (i+1))
+        source_url='http:%sspm=a2h0j.11185381.listitem_page1.5!%d~A' % (all_url[i],i+1)
+        if(not os.path.exists('C:\\Users\\T\\Downloads\\%s' % remote_name)):
+            os.mkdir('C:\\Users\\T\\Downloads\\%s' % remote_name)
+        filename='C:\\Users\\T\\Downloads\\%s\\%d.mp4' % (remote_name,i+1)
+        get_video(source_url,filename=filename)
+        bp.upload(localpath='C:\\Users\\T\\Downloads\\%s\\%d.mp4' % (remote_name,i+1),remotepath='/视频/%s' % remote_name,ondup='newcopy')
+        print('上传第%d集完毕' % (i+1))
+
+upload_video('http://v.youku.com/v_show/id_XMzQwNjg1MDc2MA==.html?spm=a2h0j.11185381.listitem_page1.5!11~A&s=efbfbdefbfbdefbfbd1d',
+             remote_name='烈火如歌',init_index=15)
+
 
 
