@@ -11,7 +11,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$start.coverage" NAME="start Coverage Results" MODIFIED="1512974712271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/深度学习/CNN神经网络" />
-    <SUITE FILE_PATH="coverage/python$python.coverage" NAME="python Coverage Results" MODIFIED="1515939865556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/python$python.coverage" NAME="python Coverage Results" MODIFIED="1522919797413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/python$DBSCAN.coverage" NAME="DBSCAN聚类 Coverage Results" MODIFIED="1514613037681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="饿了么 Coverage Results" MODIFIED="1522651971928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
     <SUITE FILE_PATH="coverage/python$setup.coverage" NAME="setup Coverage Results" MODIFIED="1514613059076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files/Anaconda3/nltk-develop" />
@@ -56,6 +56,14 @@
       <find>关键词</find>
       <find>any</find>
       <find>索引</find>
+      <find>sque</find>
+      <find>subpl</find>
+      <find>best</find>
+      <find>5</find>
+      <find>2</find>
+      <find>features</find>
+      <find>cuda</find>
+      <find>lang</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -64,57 +72,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/GrabCut前景检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/图像处理/使用分水岭进行图像分割.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/静态图像人脸检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/视频人脸检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/人脸检测与识别/人脸识别.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/角点检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/SIFT关键点检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/ORB特征匹配.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/KNN最近邻检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/特征检测/KNN最近邻匹配.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/人检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/pyramid.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/non_maximum.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/detector.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/汽车检测.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/Temp1_Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code.zip/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/sliding_window.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/Temp1_Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code.zip/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/pyramid.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_detector/sliding_window.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别/car_sliding_window.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/基本的运动检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/背景分割器.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/KNN运动检测.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/均值漂移.py" />
-        <option value="$PROJECT_DIR$/爬虫/梧桐果.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/CamShift.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/鼠标跟踪.py" />
-        <option value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标跟踪/行人跟踪.py" />
-        <option value="$PROJECT_DIR$/爬虫/陌陌爬虫.py" />
-        <option value="$PROJECT_DIR$/爬虫/获取优酷vip视频.py" />
-        <option value="$PROJECT_DIR$/爬虫/新浪新闻.py" />
-        <option value="$PROJECT_DIR$/爬虫/陌陌用户数据.py" />
-        <option value="$PROJECT_DIR$/自然语言处理/文本挖掘.py" />
-        <option value="$PROJECT_DIR$/自然语言处理/句子关系分析2.py" />
-        <option value="$PROJECT_DIR$/自然语言处理/句子关系分析.py" />
-        <option value="$PROJECT_DIR$/爬虫/楼盘网.py" />
-        <option value="$PROJECT_DIR$/推荐算法/协同过滤和矩阵分解.py" />
-        <option value="$PROJECT_DIR$/../python视频/推荐系统/推荐系统/rs_1.ipynb" />
-        <option value="$PROJECT_DIR$/推荐算法/协调过滤和矩阵分解.py" />
-        <option value="$PROJECT_DIR$/爬虫/赶集网.py" />
-        <option value="$PROJECT_DIR$/../python视频/推荐系统/推荐系统/RecSys-master/Train_RecSys.ipynb" />
-        <option value="$PROJECT_DIR$/机器学习/共享单车出行人数预测.py" />
-        <option value="$PROJECT_DIR$/../共享单车/共享单车出行人数预测.py" />
-        <option value="$PROJECT_DIR$/单车.ipynb" />
-        <option value="$PROJECT_DIR$/../共享单车/Course examination.ipynb" />
-        <option value="$PROJECT_DIR$/mysql/用户权限管理.py" />
-        <option value="$PROJECT_DIR$/mysql/数据类型.py" />
-        <option value="$PROJECT_DIR$/mysql/处理json数据.py" />
-        <option value="$PROJECT_DIR$/mysql/表格操作.py" />
-        <option value="$PROJECT_DIR$/mysql/视图.py" />
-        <option value="$PROJECT_DIR$/爬虫/饿了么.py" />
-        <option value="$PROJECT_DIR$/mysql/触发器.py" />
+        <option value="$PROJECT_DIR$/推荐算法/网易云音乐推荐系统.ipynb" />
+        <option value="$PROJECT_DIR$/推荐算法/网易云音乐.py" />
+        <option value="$PROJECT_DIR$/推荐算法/网易云音乐.ipynb" />
+        <option value="$PROJECT_DIR$/../python视频/recommendation_system_codes/1.Data_transform_and_preprocessing.ipynb" />
+        <option value="$PROJECT_DIR$/../python视频/recommendation_system_codes/2.model_training_and_evaluation.ipynb" />
+        <option value="$PROJECT_DIR$/推荐算法/网易云音乐推荐/采用surprise库搭建推荐系统.py" />
+        <option value="$PROJECT_DIR$/../python视频/recommendation_system_codes/3.sequence_modelling.ipynb" />
+        <option value="$PROJECT_DIR$/推荐算法/网易云音乐推荐/采用类似word2vec进行推荐.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/自动求导机制.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/基本命令.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/索引切片操作.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/索引切片连接换位操作.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/随机抽样.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/序列化.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/并行化操作.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/数学操作.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/比较操作.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/其他操作.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/矩阵操作.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/Tensor对象.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/Tensor张量.py" />
+        <option value="$PROJECT_DIR$/爬虫/淘宝评论.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/nn模块.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/函数模块.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/optim优化算法.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/初始化操作.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/模型的保存和加载.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/线性模型.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/Logistic回归.py" />
+        <option value="$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter3_NN/deep-nn.ipynb" />
+        <option value="$PROJECT_DIR$/pytorch教程/多层全连接神经网络.py" />
+        <option value="$PROJECT_DIR$/自然语言处理/句子关系分析3.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/卷积神经网络.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/图像增强方法.py" />
+        <option value="$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter4_CNN/resnet.ipynb" />
+        <option value="$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter5_RNN/time-series/lstm-time-series.ipynb" />
+        <option value="$PROJECT_DIR$/pytorch教程/LSTM进行时间序列分析.py" />
+        <option value="$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/kaggle_dog_vs_cat/model/fix_train.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/kaggle猫狗大战.py" />
+        <option value="$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/neural-transfer/demo.ipynb" />
+        <option value="$PROJECT_DIR$/pytorch教程/风格转换.py" />
+        <option value="$PROJECT_DIR$/pytorch教程/seq2seq机器翻译.py" />
+        <option value="C:/Program Files/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py" />
+        <option value="$PROJECT_DIR$/计算机视觉/图片文字识别.py" />
+        <option value="$USER_HOME$/Downloads/taipei.py" />
+        <option value="$PROJECT_DIR$/爬虫/豆瓣读书.py" />
+        <option value="$USER_HOME$/Downloads/taipei (1).py" />
+        <option value="$USER_HOME$/Downloads/douban.py" />
+        <option value="$PROJECT_DIR$/深度学习/tensorflow/tensorflow基础/计算图和变量定义.py" />
+        <option value="$PROJECT_DIR$/爬虫/taipei.py" />
+        <option value="$PROJECT_DIR$/深度学习/tensorflow/tensorflow基础/基本命令.py" />
       </list>
     </option>
   </component>
@@ -125,8 +133,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="241" />
-    <option name="y" value="389" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -146,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -157,18 +164,37 @@
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="深度学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="深度学习" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="深度学习" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/计算机视觉/Opencv教程/目标检测与识别" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/深度学习/tensorflow/tensorflow基础" />
     <property name="SearchEverywhereHistoryKey" value="sys.path&#9;null&#9;null" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
@@ -177,11 +203,11 @@
       <recent name="C:\Users\T\Desktop\python\自然语言处理" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T\Desktop\python\深度学习\tensorflow\tensorflow基础" />
+      <recent name="C:\Users\T\Desktop\python\深度学习" />
       <recent name="C:\Users\T\Desktop\python\计算机视觉\Opencv教程\目标检测与识别" />
       <recent name="C:\Users\T\Desktop\python\计算机视觉\Opencv教程\目标检测与识别\car_detector" />
       <recent name="C:\Users\T\Desktop\python\计算机视觉\Opencv教程\图像处理" />
-      <recent name="C:\Users\T\Desktop\python\计算机视觉\Opencv教程" />
-      <recent name="C:\Users\T\Desktop\python\计算机视觉\Opencv教程\处理文件、摄像头和图形化界面" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -330,12 +356,12 @@
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22192225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21004319" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5064795" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18682505" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850778" sideWeight="0.49352053" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39420936" sideWeight="0.49352053" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -354,6 +380,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -364,363 +416,411 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/自然语言处理/word2vec案例/用每日新闻预测金融市场变化.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="2475" column="38" lean-forward="false" selection-start-line="2475" selection-start-column="34" selection-end-line="2475" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter5_RNN/time-series/lstm-time-series.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深度学习/pytorch教程/LSTM进行时间序列分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="96" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter5_RNN/nlp/n-gram.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/kaggle_dog_vs_cat/model/net.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自然语言处理/情感分析/利用bag of words进行英文情感分析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/Logistic模型.py">
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/kaggle_dog_vs_cat/model/dataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/支持向量机.py">
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/kaggle_dog_vs_cat/model/process data.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1282051629/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="2931" column="8" lean-forward="false" selection-start-line="2931" selection-start-column="8" selection-end-line="2931" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/kaggle_dog_vs_cat/model/fix_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="140" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深度学习/pytorch教程/Logistic回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="44" column="37" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python视频/Johnson-pytorch/pytorch/draw.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/sklearn/svm/base.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/torchvision/models/resnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1997">
-          <caret line="109" column="8" lean-forward="false" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+        <state relative-caret-position="-181">
+          <caret line="110" column="62" lean-forward="false" selection-start-line="110" selection-start-column="51" selection-end-line="110" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/sklearn/cross_validation.py">
+    <entry file="file://$PROJECT_DIR$/深度学习/pytorch教程/kaggle猫狗大战.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="1350" column="4" lean-forward="false" selection-start-line="1350" selection-start-column="4" selection-end-line="1350" selection-end-column="4" />
+        <state relative-caret-position="426">
+          <caret line="148" column="61" lean-forward="false" selection-start-line="148" selection-start-column="61" selection-end-line="148" selection-end-column="61" />
+          <folding>
+            <element signature="e#22#31#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自然语言处理/文本挖掘.py">
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/Deep-Dream/deepdream.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自然语言处理/情感分析/利用word2vec进行英文情感分析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-1299">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自然语言处理/情感分析/利用word2vec对中文进行情感分析.py">
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/neural-transfer/loss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="58" column="47" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="47" />
+        <state relative-caret-position="-141">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="50" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/BP神经网络.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/torchvision/models/vgg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="63" column="15" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="63" selection-end-column="15" />
+        <state relative-caret-position="144">
+          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/sklearn/feature_extraction/text.py">
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/neural-transfer/build_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="654" column="35" lean-forward="true" selection-start-line="654" selection-start-column="17" selection-end-line="654" selection-end-column="35" />
+        <state relative-caret-position="291">
+          <caret line="60" column="52" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/io/parsers.py">
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/neural-transfer/run_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="575" column="4" lean-forward="false" selection-start-line="575" selection-start-column="4" selection-end-line="575" selection-end-column="4" />
+        <state relative-caret-position="324">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="51" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/generic.py">
+    <entry file="file://$PROJECT_DIR$/../python视频/Johnson-pytorch/pytorch/neural_transfer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="2444" column="44" lean-forward="false" selection-start-line="2444" selection-start-column="44" selection-end-line="2444" selection-end-column="44" />
+        <state relative-caret-position="-3462">
+          <caret line="59" column="46" lean-forward="true" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自然语言处理/句子关系分析.py">
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/neural-transfer/load_img.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="211" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
+        <state relative-caret-position="243">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自然语言处理/句子关系分析2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="141" column="16" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="16" />
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter9_Computer-Vision/neural-transfer/demo.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/梧桐果.py">
+    <entry file="file://$PROJECT_DIR$/数据可视化/matplotlib可视化.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="-897">
+          <caret line="65" column="49" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="68" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/楼盘网.py" />
-    <entry file="file://$PROJECT_DIR$/推荐算法/协同过滤和矩阵分解.py" />
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/surprise/prediction_algorithms/knns.py">
+    <entry file="file://$PROJECT_DIR$/深度学习/pytorch教程/风格转换.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="85" column="38" lean-forward="false" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+        <state relative-caret-position="102">
+          <caret line="170" column="5" lean-forward="false" selection-start-line="170" selection-start-column="5" selection-end-line="170" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter10_Natural-Language-Process/seq2seq-translation/model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter10_Natural-Language-Process/seq2seq-translation/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_nmt-seq2seq-master.zip/nmt-seq2seq-master/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1491">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1282051629/unicodedata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter10_Natural-Language-Process/seq2seq-translation/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="121" column="17" lean-forward="true" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter10_Natural-Language-Process/seq2seq-translation/model/seq2seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="105" column="21" lean-forward="true" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch教程/seq2seq机器翻译.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/code-of-learn-deep-learning-with-pytorch-master/chapter10_Natural-Language-Process/seq2seq-translation/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2139">
+          <caret line="44" column="15" lean-forward="true" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pytesseract/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="89" column="17" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/计算机视觉/图片文字识别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深度学习/tensorflow/网络可视化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1458">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_DeepLearningAndTensorflow-master.zip/DeepLearningAndTensorflow-master/mnist/fully_connected_feed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <caret line="128" column="8" lean-forward="true" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/taipei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="7" column="80" lean-forward="false" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/taipei (1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/豆瓣读书.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_DeepLearningAndTensorflow-master.zip/DeepLearningAndTensorflow-master/ptb/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_DeepLearningAndTensorflow-master.zip/DeepLearningAndTensorflow-master/ptb/ptb_word_lm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/tensorflow/python/ops/init_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2179">
+          <caret line="548" column="0" lean-forward="false" selection-start-line="548" selection-start-column="0" selection-end-line="548" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/tensorflow/python/ops/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深度学习/tensorflow/Logistic回归模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/获取优酷vip视频.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="50" column="46" lean-forward="false" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+        <state relative-caret-position="108">
+          <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python视频/推荐系统/推荐系统/rs_1.ipynb" />
-    <entry file="file://$PROJECT_DIR$/爬虫/赶集网.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/taipei.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="45" />
+        <state relative-caret-position="108">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/推荐算法/协调过滤和矩阵分解.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="68" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python视频/推荐系统/推荐系统/RecSys-master/Test_RecSys.ipynb" />
-    <entry file="file://$PROJECT_DIR$/../python视频/推荐系统/推荐系统/RecSys-master/Train_RecSys.ipynb" />
-    <entry file="file://$USER_HOME$/Downloads/Course examination.ipynb" />
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/seaborn/categorical.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="919">
-          <caret line="2251" column="45" lean-forward="true" selection-start-line="2251" selection-start-column="18" selection-end-line="2251" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/pandas_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/numpy_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="129" column="22" lean-forward="true" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/回归分析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/reshape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53">
-          <caret line="953" column="4" lean-forward="false" selection-start-line="953" selection-start-column="4" selection-end-line="953" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/tools/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="789" column="4" lean-forward="false" selection-start-line="789" selection-start-column="4" selection-end-line="789" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/陌陌用户数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/单车.ipynb" />
-    <entry file="file://$PROJECT_DIR$/../共享单车/Course examination.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../共享单车/共享单车出行人数预测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../共享单车/共享单车出行量预测.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/3f24eddd/11d5c30f-5466-4715-bf27-d4c177f070cb/spiders.dangdang">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/douban/douban/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/douban/douban/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/douban/douban/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1863">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/douban/douban/spiders/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/jingdong/jingdong/spiders/jd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy/jingdong/jingdong/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/深度学习/tensorflow/tensorflow基础/下载MNIST数据集.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/用户权限管理.py">
+    <entry file="file://$PROJECT_DIR$/深度学习/tensorflow/tensorflow基础/基本命令.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深度学习/tensorflow/tensorflow基础/保存和加载模型.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/处理json数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1522401403674" expanded="true" signature="172:241" ph="CREATE TABLE... g" />
-            <marker date="1522401403674" expanded="true" signature="248:316" ph="INSERT INTO g... " />
-            <marker date="1522401403674" expanded="true" signature="323:394" ph="INSERT INTO g... " />
-            <marker date="1522401403674" expanded="true" signature="416:484" ph="SELECT json_... g" />
-            <marker date="1522401403674" expanded="true" signature="544:564" ph="INSERT INTO g... " />
-            <marker date="1522401403674" expanded="true" signature="544:579" ph="INSERT INTO g... " />
-            <marker date="1522401403674" expanded="true" signature="544:611" ph="INSERT INTO g... " />
-            <marker date="1522401403674" expanded="true" signature="544:618" ph="INSERT INTO g... " />
-            <marker date="1522401403674" expanded="true" signature="648:756" ph="SELECT uid, g" />
-            <marker date="1522401403674" expanded="true" signature="791:964" ph="UPDATE g SET... " />
-            <marker date="1522401403674" expanded="true" signature="993:1060" ph="UPDATE g SET... " />
-            <marker date="1522401403674" expanded="true" signature="1099:1197" ph="ALTER TABLE users... " />
-            <marker date="1522401403674" expanded="true" signature="1229:1278" ph="ALTER TABLE users... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/饿了么.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/视图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/触发器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/表格操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1522639604153" expanded="true" signature="204:241" ph="CREATE TABLE... a" />
-            <marker date="1522639604153" expanded="true" signature="343:367" ph="INSERT INTO a... " />
-            <marker date="1522639604153" expanded="true" signature="412:429" ph="SELECT b-a F... a" />
-            <marker date="1522639604153" expanded="true" signature="483:532" ph="CREATE TABLE... b" />
-            <marker date="1522639604153" expanded="true" signature="570:595" ph="INSERT INTO a... " />
-            <marker date="1522639604153" expanded="true" signature="603:626" ph="INSERT INTO b... " />
-            <marker date="1522639604153" expanded="true" signature="634:674" ph="INSERT INTO b... " />
-            <marker date="1522639604153" expanded="true" signature="693:720" ph="UPDATE b set... " />
-            <marker date="1522639604153" expanded="true" signature="851:927" ph="CREATE TABLE... e" />
-            <marker date="1522639604153" expanded="true" signature="980:1026" ph="SELECT * FRO... e" />
-            <marker date="1522639604153" expanded="true" signature="1234:1385" ph="CREATE TABLE... f" />
-            <marker date="1522639604153" expanded="true" signature="1411:1444" ph="SELECT * fro... employees" />
-            <marker date="1522639604153" expanded="true" signature="1477:1541" ph="SELECT * FRO... employees" />
-            <marker date="1522639604153" expanded="true" signature="1562:1648" ph="SELECT * FRO... employees" />
-            <marker date="1522639604153" expanded="true" signature="1562:1816" ph="SELECT * FRO... employees" />
-            <marker date="1522639604153" expanded="true" signature="1669:1804" ph="SELECT * FRO... employees" />
-            <marker date="1522639604153" expanded="true" signature="1825:1966" ph="SELECT emplo... employees" />
-            <marker date="1522639604153" expanded="true" signature="1990:2345" ph="SELECT ADDDA... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/共享单车出行人数预测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
